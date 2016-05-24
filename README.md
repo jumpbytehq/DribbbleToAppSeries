@@ -21,6 +21,10 @@ Disclaimer: The series is just for fun, without any intensions of copying anyone
 
 ![HomeScreen](https://github.com/jumpbytehq/StopWatchApp/blob/master/IMG_4264.PNG)
 
+[Alarm App](https://github.com/jumpbytehq/AlarmApp)
+
+![HomeScreen](https://github.com/jumpbytehq/AlarmApp/blob/master/SCREENSHOT.png)
+
 # Credits
 
 https://dribbble.com/shots/559925-Weather-App-Design
@@ -28,3 +32,5 @@ https://dribbble.com/shots/559925-Weather-App-Design
 https://dribbble.com/shots/2483331-Task-manager-application-UI
 
 https://dribbble.com/shots/2700650-Clock
+
+https://dribbble.com/shots/1640866-Alarm-Material-UI
