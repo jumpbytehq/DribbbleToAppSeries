@@ -25,6 +25,10 @@ Disclaimer: The series is just for fun, without any intensions of copying anyone
 
 ![HomeScreen](https://github.com/jumpbytehq/AlarmApp/blob/master/SCREENSHOT.png)
 
+[Music Player App](https://github.com/jumpbytehq/MusicPlayerApp) - Some work in progress
+
+![HomeScreen](https://github.com/jumpbytehq/MusicPlayerApp/blob/master/IMG_4276.PNG)
+
 # Credits
 
 https://dribbble.com/shots/559925-Weather-App-Design
@@ -34,3 +38,5 @@ https://dribbble.com/shots/2483331-Task-manager-application-UI
 https://dribbble.com/shots/2700650-Clock
 
 https://dribbble.com/shots/1640866-Alarm-Material-UI
+
+https://dribbble.com/shots/2654176-Music-Player-Animation
